@@ -1,7 +1,5 @@
 <link rel="stylesheet" type="text/css" href="style.css" />
 
-<p><img height="175px" width="100%" src="https://wallpaperaccess.com/full/1236519.jpg"></img></p>
-
 <h1>About Me</h1>
 <h3>I'm Alan Bertani</h3>
 Full-stack developer and Pentester
