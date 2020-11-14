@@ -13,6 +13,3 @@ Full-stack developer and Pentester
 <li><img src="imgs/os_kali.png" width="20"/> <b>Hacking e Pentest</b><br/></li>
 <li><img src="imgs/97_Docker-512.png" width="20"/> <b>Docker</b><br/></li>
 </ul>
-<ul>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/tw0aces.png" alt="TryHackMe">
-</ul>
