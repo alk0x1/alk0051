@@ -16,5 +16,3 @@ Full-stack developer and Pentester
 <li><img src="imgs/mongodb.png" width="20"> <b>MongoDB</b><br/></li>
 <li><img src="imgs/postgres.png" width="20"> <b>Postgres</b><br/></li>
 </ul>
-<ul>
-</ul>
