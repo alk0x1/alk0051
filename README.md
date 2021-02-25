@@ -5,7 +5,7 @@
 Full-stack developer and Pentester
 <br/><br/>
 <h2>- Knowledge:</h2> <br/>
-<ul>
+<ul align="center">
   <a href="https://nodejs.org/en/"><img src="https://i.ibb.co/vVxmyN2/node.png" width="45"/></a>
   <a href="https://www.typescriptlang.org/"><img src="imgs/typescript.png" width="45" /></a>
   <a href="https://www.python.org/"><img src="imgs/python.png" width="45"></a>
