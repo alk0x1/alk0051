@@ -2,7 +2,7 @@
 
 <h1>About Me</h1>
 <h3>I'm Alan Bertani</h3>
-Full-stack developer and Pentester
+Full-stack developer and InfoSec student
 <br/><br/>
 <h2>- Knowledge:</h2> <br/>
 <ul align="center">
