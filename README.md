@@ -4,7 +4,7 @@
 <h3>I'm Alan Bertani</h3>
 Fullstack developer and InfoSec student
 <br/><br/>
-<h2>- Knowledge:</h2> <br/>
+<h2>- Techs:</h2> <br/>
 <ul align="center">
   <a href="https://nodejs.org/en/"><img src="https://i.ibb.co/vVxmyN2/node.png" width="45"/></a>
   <a href="https://www.typescriptlang.org/"><img src="imgs/typescript.png" width="45" /></a>
