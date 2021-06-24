@@ -2,7 +2,8 @@
 
 <h1>About Me</h1>
 <h3>I'm Alan Bertani</h3>
-Fullstack developer and InfoSec student
+Fullstack developer and InfoSec student <br/> <br/>
+Currently learning Rust
 <br/><br/>
 <h2>- Techs:</h2> <br/>
 <ul>
