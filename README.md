@@ -4,11 +4,11 @@
 <h3>I'm Alan Bertani</h3>
 Full-stack developer and Pentester
 <br/><br/>
-<h2>- Knowledge:</h2> <br/>
+<h2>- Techs:</h2> <br/>
 <ul>
+  <a href="https://www.rust-lang.org"><img src="imgs/rust.png" width="45"></a>
   <a href="https://nodejs.org/en/"><img src="https://i.ibb.co/vVxmyN2/node.png" width="45"/></a>
   <a href="https://www.typescriptlang.org/"><img src="imgs/typescript.png" width="45" /></a>
-  <a href="https://www.python.org/"><img src="imgs/python.png" width="45"></a>
   <a href="https://pt-br.reactjs.org/"><img src="https://i.ibb.co/4RHMmLQ/react.png" width="45"/></a>
   <a href="https://www.cplusplus.com/"><img src="imgs/c-plus-plus-logo.png" width="45"/></a>
   <a href="https://www.kali.org/"><img src="imgs/os_kali.png" width="45"/> </a>
